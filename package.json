@@ -11,9 +11,15 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "eslint": "^9.17.0",
     "express": "^4.21.2"
   },
   "devDependencies": {
-    "morgan": "^1.10.0"
+    "compression": "^1.7.5",
+    "helmet": "^8.0.0",
+    "mongoose": "^8.9.2",
+    "morgan": "^1.10.0",
+    "os": "^0.1.2",
+    "process": "^0.11.10"
   }
 }
